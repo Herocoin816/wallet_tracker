@@ -2,7 +2,7 @@
 Crypto Wallet Transactions Tracker Bot
 </h1>
 
-</p>
+</p> 
 <p align="center">
     <img src="https://img.shields.io/github/stars/cankatx/crypto-wallet-tracker">
     <img src="https://img.shields.io/github/forks/cankatx/crypto-wallet-tracker"> 
